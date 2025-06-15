@@ -4,5 +4,5 @@
 
 - `assignment for q.macro` - 定量マクロ経済学の課題
 - `assignment for finance` - ファイナンスの課題
-- `assignment for causal inference - 因果推論に関する授業での課題
+- `assignment for causal inference` - 因果推論に関する授業での課題
 - `reseach code` - 研究プロジェクトのコード
