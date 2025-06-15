@@ -7,4 +7,4 @@
 - `assignment for causal inference` - 因果推論に関する授業での課題
 - `reseach code` - 研究プロジェクトのコード
 
-* 8月以降は非公開化予定
+※8月以降は非公開化予定
